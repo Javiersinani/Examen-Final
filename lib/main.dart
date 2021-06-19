@@ -36,6 +36,7 @@ class _InicioState extends State<Inicio> {
             Center(
               child: Text("Javier Siñani Lijeron"),
             ),
+            Image.asset('assets/1.jpeg')
           ],
         ));
   }
